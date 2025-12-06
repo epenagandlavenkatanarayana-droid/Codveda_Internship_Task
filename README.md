@@ -1,15 +1,16 @@
 Codveda_Internship_Tasks
-
+-------------------------
 This repository contains the tasks I completed during my Java Development Internship at Codveda Technologies.
 Each project is developed based on the requirements provided by Codveda as part of the internship learning modules.
 
 Basic Calculator
+----------------
 
 A simple Java-based console calculator that performs essential arithmetic operations.
 This project is designed to practice user input handling and basic method implementation in Java.
 
 Features
-
+-----------
 Accepts user input for two numbers and the desired operator
 
 Validates the entered values
@@ -21,6 +22,7 @@ Displays the computed result instantly
 Beginner-friendly structure
 
 How to Run
+------------
 Using Terminal
 
 Open the project folder
@@ -44,12 +46,13 @@ com.codveda.calculator
 Run CalculatorApp.java
 
 Notes
-
+--------
 Invalid number inputs are handled gracefully
 
 Division by zero is restricted with an error message
 
 Key Learning Outcomes
+-------------------------
 
 Reading and processing user input
 
