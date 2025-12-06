@@ -1,30 +1,60 @@
 Codveda_Internship_Tasks
-This Repo is my Internship at Codveda Technologies contains Task data related that assigned to me for compilation..
+
+This repository contains the tasks I completed during my Java Development Internship at Codveda Technologies.
+Each project is developed based on the requirements provided by Codveda as part of the internship learning modules.
 
 Basic Calculator
-This is a simple console based calculator built using Java.
-It performs basic operations like addition, subtraction, multiplication and division.
+
+A simple Java-based console calculator that performs essential arithmetic operations.
+This project is designed to practice user input handling and basic method implementation in Java.
 
 Features
-• Takes input from the user
-• Validates input
-• Shows result for each operation
-• Simple and easy structure for learning
 
-How to run
-Open the project.
-Go to src folder.
-Run Main.java.
-How to run (IDE)
-Open project in Eclipse or IntelliJ.
-Ensure package is com.codveda.calculator.
-Run Main.java.
-Use menu to test operations.
+Accepts user input for two numbers and the desired operator
+
+Validates the entered values
+
+Supports Addition, Subtraction, Multiplication, and Division
+
+Displays the computed result instantly
+
+Beginner-friendly structure
+
+How to Run
+Using Terminal
+
+Open the project folder
+
+Navigate to the src directory
+
+Compile and run:
+
+javac CalculatorApp.java
+java CalculatorApp
+
+Using an IDE (Eclipse / IntelliJ / VS Code)
+
+Import the project into your IDE
+
+Ensure the package name is:
+
+com.codveda.calculator
+
+
+Run CalculatorApp.java
+
 Notes
-Handles invalid numeric input.
-Prevents division by zero.
-Learning points
-• Working with console input
-• Basic Java control flow
-• Method usage
-• Error handling
+
+Invalid number inputs are handled gracefully
+
+Division by zero is restricted with an error message
+
+Key Learning Outcomes
+
+Reading and processing user input
+
+Using methods in Java
+
+Conditional logic implementation
+
+Handling exceptions and invalid cases
