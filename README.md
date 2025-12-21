@@ -1,3 +1,20 @@
+<<<<<<< HEAD
+# Level 1 Task: Simple Number Guessing Game
+
+## 📖 Description
+This project is a console-based Java application where the program generates a random number and the user has to guess it.
+
+## 🎯 Objectives Completed
+- **Randomization**: Used Java’s `Random` class to generate the secret number.
+- **Feedback**: Provided "too high" or "too low" hints after each guess.
+- **Constraint**: Limited the user to 10 attempts to find the number.
+- **Robustness**: Handled invalid (non-integer) user inputs.
+
+## 🛠️ Skills Demonstrated
+- Loops and conditional statements.
+- User input handling with `Scanner`.
+- Logic for random number generation.
+=======
 Codveda_Internship_Tasks
 -------------------------
 This repository contains the tasks I completed during my Java Development Internship at Codveda Technologies.
@@ -61,3 +78,4 @@ Using methods in Java
 Conditional logic implementation
 
 Handling exceptions and invalid cases
+>>>>>>> feb89fdfde20297a3ece740c0ae15c7456093d39
